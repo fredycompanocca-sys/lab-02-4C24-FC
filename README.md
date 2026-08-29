@@ -1,1 +1,7 @@
-# Lab 02 - Control de Versiones 
+# lab-02-4C24-FC
+
+Descripción breve del proyecto
+
+## Getting Started
+
+Instrucciones para empezar el proyecto
